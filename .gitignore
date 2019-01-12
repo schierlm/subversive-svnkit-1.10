@@ -1,0 +1,4 @@
+bin
+UpdateSite/*.jar
+UpdateSite/features
+UpdateSite/plugins

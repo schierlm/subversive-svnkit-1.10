@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Eclipse Subversive SVNKit 1.10 for Windows" url="https://schierlm.github.io/subversive-svnkit-1.10/update-site">
+      Eclipse Subversive SVNKit 1.10 for Windows
+   </description>
+   <feature url="features/org.polarion.eclipse.team.svn.connector.svnkit110_6.0.4.I20190111-1700.jar" id="org.polarion.eclipse.team.svn.connector.svnkit110" version="6.0.4.I20190111-1700"/>
+</site>
